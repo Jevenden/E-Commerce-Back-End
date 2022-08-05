@@ -29,3 +29,5 @@ Afterwards you can issue mysql commands through the terminal (after running "mys
 Github Repo for this application: https://github.com/Jevenden/E-Commerce-Back-End/tree/main
 
 Demo Video: https://drive.google.com/file/d/1TSjUb5cUe_VC43QX8oAAg6qf__QcFqCY/view
+
+![E-Com SS](https://user-images.githubusercontent.com/102879070/183222568-66daa319-b4ec-496a-ad88-ae07c4c48a88.png)
